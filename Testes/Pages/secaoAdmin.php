@@ -152,7 +152,7 @@
         </button>
         <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="cadastroMedida.php">Adicionar Medida</a></li>
-          <li><a class="dropdown-item" href="#">Consultar Medidas</a></li>
+          <li><a class="dropdown-item" href="consultaMedida.php">Consultar Medidas</a></li>
           <li><a class="dropdown-item" href="#">Something else here</a></li>
           <li><hr class="dropdown-divider"></li>
           <li><a class="dropdown-item bg-danger text-light" href="#">Excluir Medida</a></li>
